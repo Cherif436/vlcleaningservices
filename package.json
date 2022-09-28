@@ -1,0 +1,45 @@
+{
+  "name": "ceylan",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@emailjs/browser": "^3.7.0",
+    "@headlessui/react": "^1.7.2",
+    "@heroicons/react": "^2.0.11",
+    "animations": "*",
+    "body-parser": "^1.20.0",
+    "emailjs-com": "^3.2.0",
+    "express": "^4.18.1",
+    "flowbite": "^1.5.3",
+    "flowbite-react": "^0.1.11",
+    "framer-motion": "^6.3.10",
+    "heroicons": "^2.0.11",
+    "multer": "*",
+    "next": "12.1.6",
+    "next-themes": "^0.2.0",
+    "nodemailer": "^6.7.8",
+    "react": "18.1.0",
+    "react-dom": "18.1.0",
+    "react-hook-form": "^7.32.0",
+    "react-icons": "^4.4.0",
+    "swiper": "^8.4.2",
+    "tailwind-scrollbar-hide": "^1.1.7"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.42",
+    "@types/react": "^18.0.12",
+    "autoprefixer": "^10.4.7",
+    "postcss": "^8.4.5",
+    "tailwindcss": "^3.0.24"
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "postcss.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
